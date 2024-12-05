@@ -1,3 +1,3 @@
-# Bash Script Practice 
+# Practice Repo
 
-Collection of Exercism Practice Problems 
+Repo to mess around and learn new things in.
