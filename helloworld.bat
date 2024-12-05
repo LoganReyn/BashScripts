@@ -1,3 +1,3 @@
-REM this is a comment
+REM the beginning 
 
 @echo Hello, World!
